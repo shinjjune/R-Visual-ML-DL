@@ -23,3 +23,5 @@ GraphReorder
 DF3<-filter(DF,SexRatio>1,PersInHou<2)
 Graph <- ggplot(DF3,aes(City,y=SexRatio,fill=Provinces))+geom_bar(stat="identity") + theme_wsj()
 Graph
+
+
