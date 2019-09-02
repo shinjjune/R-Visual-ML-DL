@@ -1,5 +1,3 @@
-README.md
-
 
 
 ### R이란??
@@ -26,3 +24,9 @@ hflight.R
 ggplot2,ggthemes
 
 ![image](https://user-images.githubusercontent.com/47058441/64110200-67c4b080-cdbc-11e9-93d7-b63cc37811fd.png)
+
+data.table,ggplot2
+
+![image](https://user-images.githubusercontent.com/47058441/64111482-c5a6c780-cdbf-11e9-8d6b-8094d770e0ef.png)
+
+![image](https://user-images.githubusercontent.com/47058441/64112113-6c3f9800-cdc1-11e9-82ad-a12eecb163c0.png)
