@@ -30,3 +30,7 @@ data.table,ggplot2
 ![image](https://user-images.githubusercontent.com/47058441/64111482-c5a6c780-cdbf-11e9-8d6b-8094d770e0ef.png)
 
 ![image](https://user-images.githubusercontent.com/47058441/64112113-6c3f9800-cdc1-11e9-82ad-a12eecb163c0.png)
+
+stringr,ggplot2,ggthemes
+
+![image](https://user-images.githubusercontent.com/47058441/64113240-b2e2c180-cdc4-11e9-8be5-8a42d007a8ba.png)
