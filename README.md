@@ -41,4 +41,8 @@ stringr,ggplot2,ggthemes
 
 Descriptive statistics
 
-![image](https://user-images.githubusercontent.com/47058441/64167915-5dbab480-ce85-11e9-9ac8-d22363256e9d.png)
+![image](https://user-images.githubusercontent.com/47058441/64168570-cc4c4200-ce86-11e9-9898-c99c29f99d0c.png)
+
+Descriptive statistics2
+
+![image](https://user-images.githubusercontent.com/47058441/64168595-d8380400-ce86-11e9-94d9-04244091879f.png)
