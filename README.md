@@ -12,6 +12,10 @@
   * 지도 시각화
   * 주식 분석
   
+####### cf) JSON 데이터를 변환
+
+https://rfriend.tistory.com/315
+  
 ## <views>
 
 test.R
