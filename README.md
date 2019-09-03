@@ -38,3 +38,7 @@ data.table,ggplot2
 stringr,ggplot2,ggthemes
 
 ![image](https://user-images.githubusercontent.com/47058441/64113240-b2e2c180-cdc4-11e9-8be5-8a42d007a8ba.png)
+
+Descriptive statistics
+
+![image](https://user-images.githubusercontent.com/47058441/64167915-5dbab480-ce85-11e9-9ac8-d22363256e9d.png)
