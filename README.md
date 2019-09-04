@@ -59,3 +59,8 @@ Descriptive statistics
 Descriptive statistics2
 
 ![image](https://user-images.githubusercontent.com/47058441/64168595-d8380400-ce86-11e9-94d9-04244091879f.png)
+
+diamonds_data_set
+
+![image](https://user-images.githubusercontent.com/47058441/64262049-7780f800-cf68-11e9-9a56-342522ab1e23.png)
+
