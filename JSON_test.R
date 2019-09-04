@@ -1,4 +1,4 @@
-install.packages("jsonlite")
+install.packages("jsonlite") # JSON 포맷의 데이터를 R DataFrame 으로 변환
 library(jsonlite)
 df_repos <- fromJSON("https://api.github.com/users/hadley/repos")
 
