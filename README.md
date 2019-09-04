@@ -19,6 +19,7 @@
 3) 운영체제에 맞게 설치파일 선택 & Base 선택
 
 + RStudio 설치 https://www.rstudio.com/
++ Java 설치 https://www.java.com/ko/download/windows_offline.jsp
   
   
 ##### cf) JSON 데이터를 변환
