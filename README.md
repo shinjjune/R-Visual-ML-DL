@@ -69,3 +69,8 @@ diamonds_data_set
 
 ![image](https://user-images.githubusercontent.com/47058441/64262049-7780f800-cf68-11e9-9a56-342522ab1e23.png)
 
+dplyr,ggplot2,ggthemes,reshape2,scales
+
+![image](https://user-images.githubusercontent.com/47058441/64264319-11966f80-cf6c-11e9-9cfc-b2c5c163dad2.png)
+
+
