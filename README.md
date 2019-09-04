@@ -52,6 +52,11 @@ stringr,ggplot2,ggthemes
 
 ![image](https://user-images.githubusercontent.com/47058441/64113240-b2e2c180-cdc4-11e9-8be5-8a42d007a8ba.png)
 
+dplyr,ggplot2,ggthemes,reshape2,scales
+
+![image](https://user-images.githubusercontent.com/47058441/64264319-11966f80-cf6c-11e9-9cfc-b2c5c163dad2.png)
+
+
 Descriptive statistics
 
 ![image](https://user-images.githubusercontent.com/47058441/64168570-cc4c4200-ce86-11e9-9898-c99c29f99d0c.png)
