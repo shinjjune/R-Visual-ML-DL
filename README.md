@@ -12,6 +12,15 @@
   * 지도 시각화
   * 주식 분석
   
+### R 설치
+
+1) https://www.r-project.org/ 에서 좌측상단배너에서 Download 밑에 있는 CRAN 링크를 클릭
+2) 각 나라별로 설치파일을 제공하는 서버가 존재한다. Korea를 찾은후 링크 중 하나를 선택하자
+3) 운영체제에 맞게 설치파일 선택 & Base 선택
+
++ RStudio 설치 https://www.rstudio.com/
+  
+  
 ##### cf) JSON 데이터를 변환
 
 https://rfriend.tistory.com/315
