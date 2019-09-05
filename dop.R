@@ -1,13 +1,14 @@
-install.packages("jsonlite")
-install.packages("curl")
+install.packages("jsonlite") # json 형식을 받게해준다
+install.packages("curl") 
 library(jsonlite)
 
-dop <- fromJSON("https://blocklocation.mybluemix.net/dop/readDB")
+dop <- fromJSON("https://blocklocation.mybluemix.net/dop/readDB") #json 
 str(dop)
 dop
 
-date <- dop$timestamp>="9/1/2019" & dop$timestamp<"9/2/2019"
+date <- dop$timestamp>="9/1/2019" & dop$timestamp<"9/2/2019" 
 date
+# 범위연습
 
 date1<- dop[dop$timestamp<="8/31/2019",]
 date1
@@ -30,9 +31,11 @@ con <- ifelse(data1,"A")
 
 head(dop,10)
 
+# 날짜와 시간을 분리하고 bar_chart 
+
 install.packages("stringr")
 library(stringr)
-temp <- str_split_fixed(dop[,1],"\\,",2)
+temp <- str_split_fixed(dop[,1],"\\,",2) # 날짜 
 head(temp)
 
 colnames(temp) <- c("Date","Time")
