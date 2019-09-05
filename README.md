@@ -73,4 +73,8 @@ dplyr,ggplot2,ggthemes,reshape2,scales
 
 ![image](https://user-images.githubusercontent.com/47058441/64264319-11966f80-cf6c-11e9-9cfc-b2c5c163dad2.png)
 
+dop
+
+![image](https://user-images.githubusercontent.com/47058441/64353029-00b33000-d038-11e9-8ec3-8488de56a68f.png)
+
 
