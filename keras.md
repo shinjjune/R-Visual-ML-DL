@@ -60,7 +60,9 @@ test_labels <- to_categorical(test_labels)
 이러한 각 행렬은 0 에서 255 사이의 계수를 갖는 회색조 이미지이다.
 
 + 이 3D 텐서의 다섯 번째 숫자를 그려보자
+
 digit <- train_images[5,,]
+
 plot(as.raster(digit,max=255))
 
 # 합성망??
