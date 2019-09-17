@@ -44,3 +44,6 @@ test_labels <- to_categorical(test_labels)
 >metrics <- network %>% evaluate(test_images, test_labels)
 >metrics
 ```
+```
+>network %>% predict_classes(test_images[1:10,])
+```
