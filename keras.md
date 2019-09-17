@@ -47,3 +47,25 @@ test_labels <- to_categorical(test_labels)
 ```
 >network %>% predict_classes(test_images[1:10,])
 ```
+
+# cf) MNIST 데이터셋을 적재한다.
+
+```
+>length(dim(train_images))
+>dim(train_images)
+>typeof(train_images)
+```
+
+우리가 가진 것은 정수의 3D 텐서이다. 좀 더 정확히 말하면, 데이터 유형은 28X28 정수로 이뤄진 60,000개 행렬의 배열이다.
+이러한 각 행렬은 0 에서 255 사이의 계수를 갖는 회색조 이미지이다.
+
++ 이 3D 텐서의 다섯 번째 숫자를 그려보자
+digit <- train_images[5,,]
+plot(as.raster(digit,max=255))
+
+# 합성망??
+
+
+
+
+
