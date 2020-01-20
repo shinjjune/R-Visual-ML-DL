@@ -2,7 +2,7 @@
 
 
 ### 1. 상관분석(correlation analysis)
-
+````
 install.packages("readxl")
 library(readxl)
 // 엑셀 파일을 받아옴
@@ -27,3 +27,4 @@ corrplot(x)
 
 
 
+```
