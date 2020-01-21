@@ -28,6 +28,8 @@ corrplot(x)
 
 ```
 
+![image](https://user-images.githubusercontent.com/47058441/72765593-84a93580-3c30-11ea-906b-3407909b699f.png)
+
 
 ### 2. 회귀분석(regression analysis)
   --> 한 개 또는 그 이상의 변수들(독립변수)에 대하여 다른 한 변수(종속변수) 사이의 관계를 수학적인 모형을 이용하여 설명하고 예측하는 분석기법
