@@ -30,6 +30,9 @@ corrplot(x)
 
 ![image](https://user-images.githubusercontent.com/47058441/72765626-a73b4e80-3c30-11ea-936f-d9a3c52fea27.png)
 
+![image](https://user-images.githubusercontent.com/47058441/72765644-c3d78680-3c30-11ea-8675-b7a14fd17432.png)
+
+
 
 
 ### 2. 회귀분석(regression analysis)
