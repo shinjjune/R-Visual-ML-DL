@@ -84,7 +84,7 @@ predict(m4,tor,interval="confidence")
 plot(m4)
 
 ```
-
+```
 Call:
 lm(formula = angle ~ torque + I(torque^2), data = TAS)
 
@@ -103,5 +103,5 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 34.79 on 251 degrees of freedom
 Multiple R-squared:  0.5697,	Adjusted R-squared:  0.5663 
 F-statistic: 166.2 on 2 and 251 DF,  p-value: < 2.2e-16
-
+```
 ![image](https://user-images.githubusercontent.com/47058441/72855988-9eb04a00-3cfc-11ea-91d2-06ec0cf33955.png)
