@@ -58,3 +58,33 @@ summary(m2)
 
 plot(m2)
 ```
+
+```
+install.packages("readxl")
+install.packages("ggplot2")
+library(readxl)
+
+TAS<-readxl::read_excel(path="TAS.xlsx",
+                        sheet="Sheet1",
+                        col_names = TRUE)
+
+TAS
+head(TAS)
+length(TAS$torque)
+
+
+m4<-lm(data=TAS,`angle`~`torque`+I(torque^2))
+summary(m4)
+
+scatter.smooth(x=TAS$torque,y=TAS$angle,col="red")
+
+tor<-data.frame(torque=c(3.4))
+predict(m4,tor,interval="confidence")
+
+plot(m4)
+
+```
+
+![image](https://user-images.githubusercontent.com/47058441/72855914-6c9ee800-3cfc-11ea-99b0-785d4d24f38f.png)
+
+![image](https://user-images.githubusercontent.com/47058441/72855988-9eb04a00-3cfc-11ea-91d2-06ec0cf33955.png)
