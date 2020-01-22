@@ -37,7 +37,7 @@ corrplot(x)
 
 ### 2. 회귀분석(regression analysis)
   --> 한 개 또는 그 이상의 변수들(독립변수)에 대하여 다른 한 변수(종속변수) 사이의 관계를 수학적인 모형을 이용하여 설명하고 예측하는 분석기법
-  
+#### torque~angle  
 ```
 install.packages("readxl")
 library(readxl)
@@ -58,7 +58,7 @@ summary(m2)
 
 plot(m2)
 ```
-
+#### angle~torque
 ```
 install.packages("readxl")
 install.packages("ggplot2")
