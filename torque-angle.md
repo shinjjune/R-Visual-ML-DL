@@ -84,6 +84,7 @@ predict(m4,tor,interval="confidence")
 plot(m4)
 
 ```
+summary(m4)
 ```
 Call:
 lm(formula = angle ~ torque + I(torque^2), data = TAS)
