@@ -58,6 +58,9 @@ summary(m2)
 
 plot(m2)
 ```
+![image](https://user-images.githubusercontent.com/47058441/72860399-10db5b80-3d0a-11ea-8667-9167986efe25.png)
+
+
 #### angle~torque
 ```
 install.packages("readxl")
