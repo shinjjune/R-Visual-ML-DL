@@ -85,6 +85,23 @@ plot(m4)
 
 ```
 
-![image](https://user-images.githubusercontent.com/47058441/72855914-6c9ee800-3cfc-11ea-99b0-785d4d24f38f.png)
+Call:
+lm(formula = angle ~ torque + I(torque^2), data = TAS)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-78.65 -30.97  11.30  19.78 126.32 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  196.169      7.242  27.088   <2e-16 ***
+torque      -103.398      7.727 -13.381   <2e-16 ***
+I(torque^2)   17.646      1.919   9.194   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 34.79 on 251 degrees of freedom
+Multiple R-squared:  0.5697,	Adjusted R-squared:  0.5663 
+F-statistic: 166.2 on 2 and 251 DF,  p-value: < 2.2e-16
 
 ![image](https://user-images.githubusercontent.com/47058441/72855988-9eb04a00-3cfc-11ea-91d2-06ec0cf33955.png)
