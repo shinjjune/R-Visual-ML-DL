@@ -109,3 +109,5 @@ Multiple R-squared:  0.5697,	Adjusted R-squared:  0.5663
 F-statistic: 166.2 on 2 and 251 DF,  p-value: < 2.2e-16
 ```
 ![image](https://user-images.githubusercontent.com/47058441/72855988-9eb04a00-3cfc-11ea-91d2-06ec0cf33955.png)
+
+## 잔차분석 참고자료 URL: https://data.library.virginia.edu/diagnostic-plots/
